@@ -4,11 +4,3 @@ Allow: /
 # Sitemap location
 Sitemap: https://www.pdftoolshub.online/sitemap.xml
 
-# Allow specific PDF tool pages
-Allow: /index.html
-Allow: /merge-pdf.html
-Allow: /split-pdf.html
-Allow: /extract-pdf-pages.html
-Allow: /add-pdf-watermark.html
-Allow: /pdf-info.html
-Allow: /rotate-pdf-pages.html
