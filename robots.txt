@@ -4,13 +4,6 @@ Allow: /
 # Sitemap location
 Sitemap: https://www.pdftoolshub.online/sitemap.xml
 
-# Block access to development files
-Disallow: /node_modules/
-Disallow: /scripts/
-Disallow: /.git/
-Disallow: /package.json
-Disallow: /package-lock.json
-
 # Allow specific PDF tool pages
 Allow: /index.html
 Allow: /merge-pdf.html
