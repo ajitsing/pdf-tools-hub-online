@@ -42,4 +42,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://www.pdftoolshub.online/blog/index.html</loc>
+        <lastmod>2025-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.pdftoolshub.online/blog/how-to-extract-pages-from-pdf-online.html</loc>
+        <lastmod>2025-07-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
